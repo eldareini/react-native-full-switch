@@ -1,6 +1,6 @@
 {
-  "name": "react-native-switch",
-  "version": "1.0.20",
+  "name": "react-native-full-switch",
+  "version": "1.1.0",
   "description": "A simple and fully customizable React Native component that implements a switch (toggle) for android and ios, that also support in RTL.",
   "main": "index.js",
   "scripts": {
