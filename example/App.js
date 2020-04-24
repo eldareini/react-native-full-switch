@@ -7,7 +7,7 @@ import {
   Text,
   Image,
 } from 'react-native';
-import Switch from 'react-native-switch'
+import Switch from 'react-native-full-switch'
 
 
 
@@ -225,3 +225,4 @@ const styles = StyleSheet.create({
 });
 
 export default App;
+
