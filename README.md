@@ -4,7 +4,8 @@ A simple and fully customizable React Native component that implements a switch 
 
 Example One
 :-------------------------:
-![](assets/example.gif) [example/App.js](example/App.js)
+![](assets/example.gif) 
+[example/App.js](example/App.js)
 
 ## Installation
 
@@ -20,7 +21,7 @@ If using npm:
 npm i react-native-react-native-full-switch
 ```
 
-#Usage
+##Usage
 
 ```
 import Switch from 'react-native-full-switch'
