@@ -1,7 +1,7 @@
 {
   "name": "react-native-switch",
   "version": "1.0.20",
-  "description": "",
+  "description": "A simple and fully customizable React Native component that implements a switch (toggle) for android and ios, that also support in RTL.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,10 +9,19 @@
   "keywords": [
     "react-native",
     "toggle",
-    "switch"
+    "switch",
+    "ios",
+    "android",
+    "react",
+    "react native",
+    "mobile"
   ],
   "author": "Eldar Eini",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eldareini/react-native-switch/issues"
+  },
+  "homepage": "https://github.com/eldareini/react-native-switch#readme",
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.59.0"
   },
