@@ -1,0 +1,22 @@
+{
+  "name": "react-native-switch",
+  "version": "1.0.20",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "toggle",
+    "switch"
+  ],
+  "author": "Eldar Eini",
+  "license": "MIT",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.59.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
