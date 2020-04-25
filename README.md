@@ -1,4 +1,4 @@
-# react-native-switch
+# react-native-full-switch
 
 A simple and fully customizable React Native component that implements a switch (toggle) for android and ios, that also support in RTL.
 
