@@ -1,11 +1,15 @@
+![](https://img.shields.io/npm/v/react-native-full-switch.svg?style=flat)
+![](https://img.shields.io/npm/dt/react-native-full-switch.svg)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 # react-native-full-switch
 
 A simple and fully customizable React Native component that implements a switch (toggle) for android and ios, that also support in RTL.
 
-Example One
+Example
 :-------------------------:
-![](assets/example.gif) 
-[example/App.js](example/App.js)
+![](https://github.com/eldareini/react-native-full-switch/blob/master/assets/example.gif) 
+[example](https://github.com/eldareini/react-native-full-switch/blob/master/example/App.js)
 
 ## Installation
 
@@ -70,7 +74,7 @@ const [checked, setChecked] = useState(false)
 Pull requests are always welcome! Feel free to open a new GitHub issue for any changes that can be made.
 
 ## License
-[MIT](./LICENSE)
+[MIT](https://github.com/eldareini/react-native-full-switch/blob/master/LICENSE)
 
 
 
