@@ -8,7 +8,7 @@ A simple and fully customizable React Native component that implements a switch 
 
 Example
 :-------------------------:
-![](https://github.com/eldareini/react-native-full-switch/blob/master/assets/example.gif) 
+![](https://raw.githubusercontent.com/eldareini/react-native-full-switch/master/assets/example.gif) 
 [example](https://github.com/eldareini/react-native-full-switch/blob/master/example/App.js)
 
 ## Installation
